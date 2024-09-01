@@ -1,0 +1,6 @@
+[submodule ".config"]
+	path = .config
+	url = https://github.com/0x4248/.config
+[submodule ".local"]
+	path = .local
+	url = https://github.com/0x4248/.local
